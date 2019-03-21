@@ -76,7 +76,12 @@ main {
 }
 
 .nav-link > a {
+	color: #fff;
 	text-decoration: none;
+}
+
+.nav-link > a:active {
+	color: rgba(0, 0, 0, 0.1);
 }
 
 .nav-link > a:visited {
