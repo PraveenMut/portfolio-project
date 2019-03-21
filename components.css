@@ -1,0 +1,68 @@
+.data-container {
+    display: flex;
+    max-width: 600px;
+  /*   height: 200px; */
+    background: #FAF7FF;
+    box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 2px 1px -1px rgba(0,0,0,0.12);
+    border-radius: 4px;
+    margin: 20px;
+  }
+  
+  .data-container-main {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+  }
+  
+  .data-container-img {
+    width: 40%;
+    background-image: url("https://i.imgur.com/nZeqBYh.png");
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .img-portfolio-1 {
+    background-image: url("https://image.freepik.com/free-photo/view-air-plane-wing-during-take-off-landing_1359-539.jpg");
+    border-radius: 4px;
+  }
+  
+  .data-container-text {
+    display: block;
+    padding: 16px;
+  }
+  
+  .data-container-text > h4 {
+    color: #000;
+    font-size: 1.75rem;
+    margin: 0;
+  }
+  
+  .data-container-text > p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+  }
+  
+  .button-container {
+    margin-left: 5px;
+    padding-bottom: 10px;
+    margin-top: -10px;
+  }
+  
+  .button {
+      width: 175px;
+      padding: 6px 16px;
+      background-color: #FC466B;
+      box-sizing: border-box;
+      border-radius: 4px;
+      box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.14);
+      margin: 8px;
+      font-size: 14px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      letter-spacing: 0.02857em;
+      text-transform: uppercase;
+      color: #fff;
+      font-weight: 500;
+      text-align: center;
+  }  
