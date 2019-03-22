@@ -16,20 +16,19 @@ The main design focus was drawn back to the "raw" design mentality where the typ
 
 However, text, progress bars were designed in the gradient/flat UI.
 
-# Design Process
+# Design Intracies (Process):
 
 
 # Project Timeline
 
 Similar to trello, the process of the project revolved around inspiration for design,mockups with design on Figma, mental aspects of designs, visiting beautiful, simple yet functional websites such as:
 
-www.bloomberg.com
-www.stripe.com
-www.nytimes.com
-https://1stwebdesigner.com/inspiration-brutalist-web-design/
+<p><a href="www.bloomberg.com">www.bloomberg.com</a></p>
+<p><a href="www.stripe.com">www.stripe.com</a></p>
+<p><a href="www.nytimes.com">www.nytimes.com</a></p>
+<p><a href="https://1stwebdesigner.com/inspiration-brutalist-web-design/">https://1stwebdesigner.com/inspiration-brutalist-web-design/</p>
 
-After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire monolith.
-
+After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire =
 Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage.
 
 Afterwards, design considerations for mobile were undertaken by ensuring that for small viewports, relevant media queries were utilised to hide the navigation and components that were not optimised for mobile were altered to display the content as best as possible despite the lack of real estate. 
@@ -40,8 +39,9 @@ Afterwards, design considerations for mobile were undertaken by ensuring that fo
 
 # Functionality / Features
 
+Referring back to core design ethos of simplicity, fast performance (optimised SVG path images less than 2KB or large images lossy compressed while preserving detail, only 1 PNG used for logo due to the complexity of the image.
 
-
+Therefore, a tasteful gradient navbar, with a logo and a clean navigation in the center with clear contact at the bottom alongside unobtrusive content on the right. There is a dynamic component on the contact page where a user can post a comment and is sent to my email address. 
 
 # Site Map
 
@@ -75,5 +75,7 @@ This site uses the vanilla HTML5 & CSS3 stack to adhere to project requirements.
 ## Key events in the development of the Internet
 
 ## The fundamentals of the Internet
+
+At its core, the Internet is a set of interconnected networks that connect a computer with another in a mesh-based form.
 
 ## Impact of the Internet to the world
