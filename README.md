@@ -76,6 +76,31 @@ This site uses the vanilla HTML5 & CSS3 stack to adhere to project requirements.
 
 ## The fundamentals of the Internet
 
-At its core, the Internet is a set of interconnected networks that connect a computer with another in a mesh-based form.
+At its core, the Internet is a set of interconnected networks that connect a computer with another in a mesh-based form. 
+
+Thus, to orchestrate such a vast network where there is little order, protocols and layers need to be established.
+
+The techniques are as follows:
+- Packet Handling and Transport Handling (UDP, TCP/IP)
+- The routing of traffic (DNS)
+- The protocol method of transmitting client-server data in a formalised manner (HTTP, FTP)
+
+### Packet Handling
+This allows for transport of data from one PC to another PC (typically client to server) to occur in a formalised manner. This is the base layer that can allow traffic to flwo
+
+### DNS
+DNS, or Domain Name System, is a decentralized directory that translates domain names from the transport layer (base layer) to IPs and then routes it to the correct server.
+
+### HTTP
+These allow for data from requests from URLs to occur. HTML documents can be sent through this protocol.
 
 ## Impact of the Internet to the world
+The original goal of the internet was to provide the collective intelligence of many individuals across the globe. As there is no restrictions (until recently) on what knowledge could be shared, this is single handedly the most powerful innovation created by mankind. Instead of being restricted on the intelligence of what 1 individual or corporation, now anyone, anywhere, regardless of any status can access the world's knowledge in the hands of their pocket. 
+
+Ordering a pizza? Sure! Booking a ticket? Sure! Understanding science? Don't run to the library for outdated texts, just go type it in Google. Not sure where you are and need a taxi? Easy.
+
+One is only limited by their imagination through disruptive technology of the Internet.
+
+Ordering a pizza? Sure! Booking a ticket? Sure! Understanding science? Don't run to the library for outdated texts, just go type it in Google. Not sure where you are and need a taxi? Easy.
+
+One is only limited by their imagination through disruptive technology of the Internet.
