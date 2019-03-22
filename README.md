@@ -1,8 +1,8 @@
 # portfolio-project
 
 # Live Site Links
-https://peaceful-lichterman-8455b7.netlify.com/
-https://github.com/PraveenMut/portfolio-project
+Live Site: https://peaceful-lichterman-8455b7.netlify.com/
+GitHub repo: https://github.com/PraveenMut/portfolio-project
 
 # Design Ethos (Purpose)
 
