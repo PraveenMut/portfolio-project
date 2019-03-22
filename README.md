@@ -1,8 +1,8 @@
 # Personal Portfolio Project
 
 # Live Site Links
-<p>Live Site: <a href="https://peaceful-lichterman-8455b7.netlify.com/">https://peaceful-lichterman-8455b7.netlify.com/</a></p>
-<p>GitHub repo:<a href="https://github.com/PraveenMut/portfolio-project">https://github.com/PraveenMut/portfolio-project</a></p>
+<b><p>Live Site: <a href="https://peaceful-lichterman-8455b7.netlify.com/">https://peaceful-lichterman-8455b7.netlify.com/</a></p></b>
+<b><p>GitHub repo:<a href="https://github.com/PraveenMut/portfolio-project">https://github.com/PraveenMut/portfolio-project</a></p></b>
 
 # Design Ethos (Purpose)
 
@@ -18,17 +18,40 @@ However, text, progress bars were designed in the gradient/flat UI.
 
 # Design Intracaies (Process):
 
+The design process revolved around finding specific colours, inspiration for potential websites that could be used as a basis for creating original work. As also explained below, I very much resonated with clear & bold yet fluid design. My personality is both an "analytical" yet "easy going/friendly" and to ensure that it encapsulated those traits, the brutualist yet flat UI design was the best design aesthetic I wished to create.
+
+Instead of images or other "complications" such as animations, I focused mainly on vivid, bold & stern headings coupled with fluid text on the body and the navigation sidebar. 
+
+In regards to colour, <a href="https://mycolor.space/">My Color Space</a> was used to find complementary colours and contrasting colour sets.
+
+<img src="/docs/colourspace.png">
+
+ After much consideration, these colours were used:
+
+<img src="/docs/selectedcolours.png">
+
+The colours of Pastel Blue, Pink / Pastel Red were the base colours which then gold, black, white and cream for containers were used for the rest of the scheme. This provided a <b>"bold"</b> architecture while keeping the <em>smooth</em> feel. 
+
+This concludes the design considerations of the site. In summary:
+- Having a bold layout through asserting and dominant typography
+- Having a smooth layout with the clean navigation bar and "rounder" fonts
+- A simple colour scheme
+- Emphasis on typography
+
 
 # Project Timeline
 
 Similar to trello, the process of the project revolved around inspiration for design,mockups with design on Figma, mental aspects of designs, visiting beautiful, simple yet functional websites such as:
 
-<p><a href="www.bloomberg.com">www.bloomberg.com</a></p>
-<p><a href="www.stripe.com">www.stripe.com</a></p>
-<p><a href="www.nytimes.com">www.nytimes.com</a></p>
+<p><a href="https://wired.com">Wired Magazine</a></p>
+<p><a href="https://technologyreview.com">MIT Technology Review</a></p>
+<p><a href="www.bloomberg.com">Bloomberg</a></p>
+<p><a href="www.stripe.com">Stripe</a></p>
+<p><a href="www.nytimes.com">New York Times</a></p>
 <p><a href="https://1stwebdesigner.com/inspiration-brutalist-web-design/">https://1stwebdesigner.com/inspiration-brutalist-web-design/</a></p>
 
-After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire =
+After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire monolith.
+
 Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage.
 
 Afterwards, design considerations for mobile were undertaken by ensuring that for small viewports, relevant media queries were utilised to hide the navigation and components that were not optimised for mobile were altered to display the content as best as possible despite the lack of real estate. 
@@ -47,6 +70,8 @@ Therefore, a tasteful gradient navbar, with a logo and a clean navigation in the
 
 The site follows a straight-forward "brutualist"/"raw" UX emphaising ease of use than unneeded complications as previously stated. Therefore, the site offers 4 distinct sections: Home, About, Portfolio and Contact.
 
+The pages are as follows:
+
 ## Home
 
 Home contains all of the main information that propsective viewers are looking for. This includes my name, who I am and skillsets. 
@@ -61,6 +86,16 @@ This page provides a clean view of all of the projects that I have completed.
 This area provides an area for prospective employers to contact me.
 
 # Screenshots
+
+Desktop:
+
+<img src="/docs/screenshot-desktop.png" width="50%">
+
+Mobile:
+
+<img src="/docs/screenshot-mobile.png" />
+
+Trello: see <a href="#Trello">Trello</a>
 
 # Target Audience
 
