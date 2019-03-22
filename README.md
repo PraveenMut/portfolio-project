@@ -16,7 +16,7 @@ The main design focus was drawn back to the "raw" design mentality where the typ
 
 However, text, progress bars were designed in the gradient/flat UI.
 
-# Design Intracies (Process):
+# Design Intracaies (Process):
 
 
 # Project Timeline
@@ -73,6 +73,17 @@ This site uses the vanilla HTML5 & CSS3 stack to adhere to project requirements.
 # Questions and Answers
 
 ## Key events in the development of the Internet
+
+1962 - Discussion of a Galatic Network
+1966 - APRANET draft
+1967 - APRANET published
+1980 - Ethernet Standard Introduced
+1981 - Computer Science Network
+1992 - ISPs offer dialup in the U.S. (28.8k)
+1993 - Amazon is incorporated, an internet revolution is born
+2000 - Dot Com bubble burst
+2003 - Facebook founded
+2014 - SV Boom, VC Funding hits a record high, a "Yo!" app is valued at $1,000,000 USD
 
 ## The fundamentals of the Internet
 
