@@ -26,7 +26,7 @@ Similar to trello, the process of the project revolved around inspiration for de
 <p><a href="www.bloomberg.com">www.bloomberg.com</a></p>
 <p><a href="www.stripe.com">www.stripe.com</a></p>
 <p><a href="www.nytimes.com">www.nytimes.com</a></p>
-<p><a href="https://1stwebdesigner.com/inspiration-brutalist-web-design/">https://1stwebdesigner.com/inspiration-brutalist-web-design/</p>
+<p><a href="https://1stwebdesigner.com/inspiration-brutalist-web-design/">https://1stwebdesigner.com/inspiration-brutalist-web-design/</a></p>
 
 After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire =
 Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage.
@@ -74,16 +74,17 @@ This site uses the vanilla HTML5 & CSS3 stack to adhere to project requirements.
 
 ## Key events in the development of the Internet
 
-1962 - Discussion of a Galatic Network
-1966 - APRANET draft
-1967 - APRANET published
-1980 - Ethernet Standard Introduced
-1981 - Computer Science Network
-1992 - ISPs offer dialup in the U.S. (28.8k)
-1993 - Amazon is incorporated, an internet revolution is born
-2000 - Dot Com bubble burst
-2003 - Facebook founded
-2014 - SV Boom, VC Funding hits a record high, a "Yo!" app is valued at $1,000,000 USD
+- 1962 >> Discussion of a Galatic Network
+- 1966 >> APRANET draft
+- 1967 >> APRANET published
+- 1980 >> Ethernet Standard Introduced
+- 1981 >> Computer Science Network
+- 1992 >> ISPs offer dialup in the U.S. (28.8k)
+- 1993 >> Amazon is incorporated, an internet revolution is born
+- 2000 >> Dot Com bubble burst
+- 2003 >> Facebook founded
+- 2014 >> SV Boom, VC Funding hits a record high, a "Yo!" app is valued at $1,000,000 USD
+
 
 ## The fundamentals of the Internet
 
