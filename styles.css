@@ -113,8 +113,8 @@ main {
     margin-left: 30px;
     justify-content: space-evenly;
     background: url('./img/bash.png') no-repeat;
-    background-size: 40%;
-    background-position: right;
+    background-size: 70%;
+    background-position-x: 140%;
   }
   
   .headers-container {
