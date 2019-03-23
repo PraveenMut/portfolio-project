@@ -177,7 +177,9 @@ i {
     background-size: 70%;
     background-position-x: 140%;
   }
-  
+.main-container-about-page {
+	height: initial;
+}
   .headers-container {
     max-width: 440px;
     min-width: 390px;
