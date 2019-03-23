@@ -195,7 +195,8 @@ main {
   }
   
   .text-footer {
-    text-align: center;
+		text-align: center;
+		margin: 30px auto;
     font-family: 'Raleway';
     font-weight: 300;
     width: 100%;
