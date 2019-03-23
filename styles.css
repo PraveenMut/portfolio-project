@@ -20,6 +20,26 @@ main {
     margin-left: calc(100vw - calc(100vw - 200px));
 }
 
+i {
+	font-size: 2em;
+}
+
+#python-icon {
+	color: rgba(55,113,159,1);
+}
+
+#js-icon {
+	color: rgba(113,169,98,1);
+}
+
+#html-icon {
+	color: rgba(228,77,38,1);
+}
+
+#css-icon {
+	color: rgba(27,115,186,1);
+}
+
 .nav-container {
     display: flex;
     flex-flow: column nowrap;
