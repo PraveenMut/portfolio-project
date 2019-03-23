@@ -105,6 +105,47 @@ main {
   margin: 5%;
 }
 
+.mobile-wrapper {
+	display: none;
+  margin-left: 17%;
+  float: none;
+}
+.dropdown-link {
+  background: linear-gradient(0.45turn, #3f5efb, #fc466b);
+  color: white;
+  padding: 10px;
+  padding-bottom: 150%;
+  border: none;
+  height: 100px;
+  margin: 0;
+  font-size: 8vw;
+  box-shadow: 2px 3px 13px -5px rgba(252,70,107,1);
+}
+
+.nav-container-mobile {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background: linear-gradient(0.98turn, #3f5efb, #fc466b);
+  min-width: 160px;
+  z-index: 1; 
+  border-radius: 7px;
+}
+
+.dropdown-content a {
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.nav-container-mobile:hover .dropdown-content {
+  display: block;
+}
 
 .main-container {
     display: flex;
@@ -208,4 +249,19 @@ main {
 
 	.text-footer span {
 		color: red;
+	}
+
+	@media screen and (max-width: 600px) {
+		.mobile-wrapper {
+			display: block;
+		}
+		main {
+			margin-left: 10%;
+		}
+		.nav-container {
+			display: none;
+		}
+		.main-container {
+			background: none;
+		}
 	}
