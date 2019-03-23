@@ -32,6 +32,10 @@ In regards to colour, <a href="https://mycolor.space/">My Color Space</a> was us
 
 The colours of Pastel Blue, Pink / Pastel Red were the base colours which then gold, black, white and cream for containers were used for the rest of the scheme. This provided a <b>"bold"</b> architecture while keeping the <em>smooth</em> feel. 
 
+## Figma Screenshots:
+
+<img src="/docs/figma.png">
+
 This concludes the design considerations of the site. In summary:
 - Having a bold layout through asserting and dominant typography
 - Having a smooth layout with the clean navigation bar and "rounder" fonts
@@ -50,9 +54,9 @@ Similar to trello, the process of the project revolved around inspiration for de
 <p><a href="www.nytimes.com">New York Times</a></p>
 <p><a href="https://1stwebdesigner.com/inspiration-brutalist-web-design/">https://1stwebdesigner.com/inspiration-brutalist-web-design/</a></p>
 
-After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire monolith.
+After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire monolith. 
 
-Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage.
+Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage. The process of building these components (such as the navbar, about section, mobile nav, contact form, portfolio) are listed in the GitHub commit history and also on <b><a href="https://codepen.io/PraveenMut/">CodePen</a></b>.
 
 Afterwards, design considerations for mobile were undertaken by ensuring that for small viewports, relevant media queries were utilised to hide the navigation and components that were not optimised for mobile were altered to display the content as best as possible despite the lack of real estate. 
 
