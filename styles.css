@@ -204,4 +204,8 @@ main {
     background-image: -moz-linear-gradient(1turn, #3F5EFB, #FC466B);
     border-radius: 4px;
     border-right: 3px solid white;
-  }
+	}
+
+	.text-footer span {
+		color: red;
+	}
