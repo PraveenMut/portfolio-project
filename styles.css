@@ -39,7 +39,7 @@ main {
   border: 3px solid white;
   margin: 20px;
   padding: 60px;
-  background: url("https://i.imgur.com/13qNcMD.jpg");
+  background: url('./img/headshot.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -109,10 +109,10 @@ main {
 .main-container {
     display: flex;
     flex-flow: column;
-  /*   height: 95vh; */
+    height: 97vh;
     margin-left: 30px;
     justify-content: space-evenly;
-    background: url("https://i.imgur.com/VieS1f8.png") no-repeat;
+    background: url('./img/bash.png') no-repeat;
     background-size: 40%;
     background-position: right;
   }
