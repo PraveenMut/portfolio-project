@@ -41,7 +41,7 @@ Original Conception:
 <img src="/docs/original_conception.png">
 
 Proposed Desktop Design:
-<img src="/docs/mobile_wireframe.png">
+<img src="/docs/desktop_design.png">
 
 Mobile Wireframe:
 <img src="/docs/mobile_wireframe.png">
