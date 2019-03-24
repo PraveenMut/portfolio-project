@@ -34,19 +34,19 @@ The colours of Pastel Blue, Pink / Pastel Red were the base colours which then g
 
 ## Figma Screenshots:
 
-Moodboard:
+### Moodboard
 <img src="/docs/moodboard_figma.png">
 
-Original Conception:
+### Original Conception:
 <img src="/docs/original_conception.png">
 
-Proposed Desktop Design:
+### Proposed Desktop Design:
 <img src="/docs/desktop_design.png">
 
-Mobile Wireframe:
+### Mobile Wireframe
 <img src="/docs/mobile_wireframe.png">
 
-Desktop Wireframe:
+### Desktop Wireframe:
 <img src="/docs/desktop_wireframe.png">
 
 ### Direct Figma Link:
