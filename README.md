@@ -2,7 +2,7 @@
 
 # Live Site Links
 <b><p>Live Site: <a href="https://peaceful-lichterman-8455b7.netlify.com/">https://peaceful-lichterman-8455b7.netlify.com/</a></p></b>
-<b><p>GitHub repo:<a href="https://github.com/PraveenMut/portfolio-project">https://github.com/PraveenMut/portfolio-project</a></p></b>
+<b><p>GitHub repo: <a href="https://github.com/PraveenMut/portfolio-project">https://github.com/PraveenMut/portfolio-project</a></p></b>
 
 # Design Ethos (Purpose)
 
@@ -18,39 +18,39 @@ However, text, progress bars were designed in the gradient/flat UI.
 
 # Design Intricacies (Process):
 
-The design process revolved around finding specific colours, inspiration for potential websites that could be used as a basis for creating original work. As also explained below, I very much resonated with clear & bold yet fluid design. My personality is both an "analytical" yet "easy going/friendly" and to ensure that it encapsulated those traits, the brutalist yet flat UI design was the best design aesthetic I wished to create.
+The design process revolved around finding specific colours, inspiration for potential websites that could be used as a basis for creating original work. As also explained below, I very much resonated with clear & bold yet fluid design. My personality is both an "analytical" yet "easy going/friendly" one and to ensure that it encapsulated those traits, the brutalist yet flat UI design was the best design aesthetic I wished to create.
 
 Instead of images or other "complications" such as animations, I focused mainly on vivid, bold & stern headings coupled with fluid text on the body and the navigation sidebar. 
 
 In regards to colour, <a href="https://mycolor.space/">My Color Space</a> was used to find complementary colours and contrasting colour sets.
 
-<img src="/docs/colourspace.png">
+<img src="./docs/colourspace.png">
 
  After much consideration, these colours were used:
 
-<img src="/docs/selectedcolours.png">
+<img src="./docs/selectedcolours.png">
 
 The colours of Pastel Blue, Pink / Pastel Red were the base colours which then gold, black, white and cream for containers were used for the rest of the scheme. This provided a <b>"bold"</b> architecture while keeping the <em>smooth</em> feel. 
 
 ## Figma Screenshots:
 
 ### Moodboard
-<img src="/docs/moodboard_figma.png">
+<img src="./docs/moodboard_figma.png">
 
 ### Original Conception:
-<img src="/docs/original_conception.png">
+<img src="./docs/original_conception.png">
 
 ### Proposed Desktop Design:
-<img src="/docs/desktop_design.png">
+<img src="./docs/desktop_design.png">
 
 ### Mobile Wireframe
-<img src="/docs/mobile_wireframe.png">
+<img src="./docs/mobile_wireframe.png">
 
 ### Desktop Wireframe:
-<img src="/docs/desktop_wireframe.png">
+<img src="./docs/desktop_wireframe.png">
 
 ### Direct Figma Link:
-https://www.figma.com/file/J7yp0RZjak8kIwH8rFycun8S/Untitled?node-id=0%3A1
+<b>https://www.figma.com/file/J7yp0RZjak8kIwH8rFycun8S/Untitled?node-id=0%3A1</b>
 
 
 This concludes the design considerations of the site. In summary:
@@ -75,7 +75,7 @@ Similar to trello, the process of the project revolved around inspiration for de
 
 After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire monolith. 
 
-Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage. The process of building these components (such as the navbar, about section, mobile nav, contact form, portfolio) are listed in the GitHub commit history and also on <b><a href="https://codepen.io/PraveenMut/">CodePen</a></b>.
+Therefore, the website was built on a component-first approach. This is where components were initially developed (in a canonical navigation/drectory order) and then these components were replicated and then stitched together to create the overall webpage. The process of building these components (such as the navbar, about section, mobile nav, contact form, portfolio) are listed in the <b><a href="https://github.com/PraveenMut/portfolio-project/commits/master">GitHub commit history</a></b> and also on <b><a href="https://codepen.io/PraveenMut/">CodePen</a></b>.
 
 Afterwards, design considerations for mobile were undertaken by ensuring that for small viewports, relevant media queries were utilised to hide the navigation and components that were not optimised for mobile were altered to display the content as best as possible despite the lack of real estate. 
 
@@ -90,13 +90,13 @@ In regards to the desktop, the emphasis was more towards the clear display of te
 
 # Trello
 
-<img src="/docs/trello.png" />
+<img src="./docs/trello.png" />
 
 # Functionality / Features
 
-Referring back to core design ethos of simplicity, fast performance (optimised SVG path images less than 2KB or large images lossy compressed while preserving detail, only 1 PNG used for logo due to the complexity of the image.
+Referring back to core design ethos of simplicity, fast performance (optimised SVG path images or large images stored in lossy compression while preserving detail) was the <b>primary key</b>. Thus, only a few PNGs and JPGs were used.
 
-Therefore, a tasteful gradient navbar, with a logo and a clean navigation in the centre with clear contact at the bottom alongside unobtrusive content on the right. There is a dynamic component on the contact page where a user can post a comment and is sent to my email address. 
+In regards to aesthetics, A tasteful gradient navbar, with a logo and a clean navigation was the key highlight of the page. Contrasting this vibrance is the main content displaying the "raw" design on the right with an emphasis on <b>functionality</b>. Everything that one needs is on the home page or in the navigation bar. 
 
 # Site Map
 
@@ -120,11 +120,19 @@ This area provides an area for prospective employers to contact me.
 
 Desktop:
 
-<img src="/docs/screenshot-desktop.png" width="50%">
+<p>Selected Page (Home / Main Page):</p>
+<img src="./docs/screenshot-desktop1.png" width="90%">
+
+<p>Selected Page (Portfolio Page):</p>
+<img src="./docs/screenshot-desktop2.png" width="90%">
 
 Mobile:
 
-<img src="/docs/screenshot-mobile.png" />
+<p>Selected Page illustrating top navigation bar usage (Home Page):</p>
+<img src="./docs/screenshot-mobile1.png" />
+
+<p>Selected Page illustrating bottom navigation bar usage when screen real estate is unavailable to fit the top nav bar.</p>
+<img src="./docs/screenshot-mobile2.png">
 
 Trello: see <a href="#Trello">Trello</a>
 
