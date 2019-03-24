@@ -16,6 +16,9 @@ The main design focus was drawn back to the "raw" design mentality where the typ
 
 However, text, progress bars were designed in the gradient/flat UI.
 
+## Fonts Used:
+<b>Roboto Slab</b> for headings and <b>Raleway</b> body were used as universal fonts.
+
 # Design Intricacies (Process):
 
 The design process revolved around finding specific colours, inspiration for potential websites that could be used as a basis for creating original work. As also explained below, I very much resonated with clear & bold yet fluid design. My personality is both an "analytical" yet "easy going/friendly" one and to ensure that it encapsulated those traits, the brutalist yet flat UI design was the best design aesthetic I wished to create.
