@@ -6,7 +6,7 @@
 
 # Design Ethos (Purpose)
 
-The design principles and its related ethos was inspired from a blend of sleek gradients (the current generation of design with flat UI) and "brutualist"/"raw" design from analytical websites such as Bloomberg. This unique blend juxtaposes each other in a tasteful manner which reflects my personality as a whole.
+The design principles and its related ethos was inspired from a blend of sleek gradients (the current generation of design with flat UI) and "brutalist"/"raw" design from analytical websites such as Bloomberg. This unique blend juxtaposes each other in a tasteful manner which reflects my personality as a whole.
 
 Due to the nature of the purpose, a desktop-first approach (Macbook, iPad) was in mind rather than mobile. 
  
@@ -16,9 +16,9 @@ The main design focus was drawn back to the "raw" design mentality where the typ
 
 However, text, progress bars were designed in the gradient/flat UI.
 
-# Design Intracaies (Process):
+# Design Intricacies (Process):
 
-The design process revolved around finding specific colours, inspiration for potential websites that could be used as a basis for creating original work. As also explained below, I very much resonated with clear & bold yet fluid design. My personality is both an "analytical" yet "easy going/friendly" and to ensure that it encapsulated those traits, the brutualist yet flat UI design was the best design aesthetic I wished to create.
+The design process revolved around finding specific colours, inspiration for potential websites that could be used as a basis for creating original work. As also explained below, I very much resonated with clear & bold yet fluid design. My personality is both an "analytical" yet "easy going/friendly" and to ensure that it encapsulated those traits, the brutalist yet flat UI design was the best design aesthetic I wished to create.
 
 Instead of images or other "complications" such as animations, I focused mainly on vivid, bold & stern headings coupled with fluid text on the body and the navigation sidebar. 
 
@@ -34,7 +34,24 @@ The colours of Pastel Blue, Pink / Pastel Red were the base colours which then g
 
 ## Figma Screenshots:
 
-<img src="/docs/figma.png">
+Moodboard:
+<img src="/docs/moodboard_figma.png">
+
+Original Conception:
+<img src="/docs/original_conception.png">
+
+Proposed Desktop Design:
+<img src="/docs/mobile_wireframe.png">
+
+Mobile Wireframe:
+<img src="/docs/mobile_wireframe.png">
+
+Desktop Wireframe:
+<img src="/docs/desktop_wireframe.png">
+
+### Direct Figma Link:
+https://www.figma.com/file/J7yp0RZjak8kIwH8rFycun8S/Untitled?node-id=0%3A1
+
 
 This concludes the design considerations of the site. In summary:
 - Having a bold layout through asserting and dominant typography
@@ -45,14 +62,16 @@ This concludes the design considerations of the site. In summary:
 
 # Project Timeline
 
-Similar to trello, the process of the project revolved around inspiration for design,mockups with design on Figma, mental aspects of designs, visiting beautiful, simple yet functional websites such as:
+Similar to trello, the process of the project revolved around inspiration for design, mockups with design on Figma, mental aspects of designs, visiting beautiful, simple yet functional websites such as:
 
 <p><a href="https://wired.com">Wired Magazine</a></p>
-<p><a href="https://technologyreview.com">MIT Technology Review</a></p>
+<p><a href="https://www.technologyreview.com/">MIT Technology Review</a></p>
 <p><a href="www.bloomberg.com">Bloomberg</a></p>
 <p><a href="www.stripe.com">Stripe</a></p>
 <p><a href="www.nytimes.com">New York Times</a></p>
+<p><a href="https://dev.to/">Dev Community (dev.to)</a></p>
 <p><a href="https://1stwebdesigner.com/inspiration-brutalist-web-design/">https://1stwebdesigner.com/inspiration-brutalist-web-design/</a></p>
+<p><a href="https://zero.app">Zero Banking</a></p>
 
 After conceiving of designs, this was created in a final sketch in Figma. This was consequently approved and then the development of the website commenced with a focus on modularity rather building an entire monolith. 
 
@@ -77,7 +96,7 @@ In regards to the desktop, the emphasis was more towards the clear display of te
 
 Referring back to core design ethos of simplicity, fast performance (optimised SVG path images less than 2KB or large images lossy compressed while preserving detail, only 1 PNG used for logo due to the complexity of the image.
 
-Therefore, a tasteful gradient navbar, with a logo and a clean navigation in the center with clear contact at the bottom alongside unobtrusive content on the right. There is a dynamic component on the contact page where a user can post a comment and is sent to my email address. 
+Therefore, a tasteful gradient navbar, with a logo and a clean navigation in the centre with clear contact at the bottom alongside unobtrusive content on the right. There is a dynamic component on the contact page where a user can post a comment and is sent to my email address. 
 
 # Site Map
 
@@ -86,8 +105,7 @@ The site follows a straight-forward "brutualist"/"raw" UX emphaising ease of use
 The pages are as follows:
 
 ## Home
-
-Home contains all of the main information that propsective viewers are looking for. This includes my name, who I am and skillsets. 
+Home contains all of the main information that prospective viewers are looking for. This includes my name, who I am and skillsets. 
 
 ## About
 Detailed information about myself with a description of my experiences in industry, listing interests and providing a condensed excerpt of my resume with a link to the full resume. 
@@ -112,11 +130,11 @@ Trello: see <a href="#Trello">Trello</a>
 
 # Target Audience
 
-The target audience of the portfolio project will be other professionals, employers and other individuals interested in discussing opportunities or technical topics with me. The overall goal of this portfolio project is to showcase my skills and provide a online presence.
+The target audience of the portfolio project will be other technology professionals, employers and other individuals interested in discussing opportunities or technical topics with me. The overall goal of this portfolio project is to showcase my skills and provide an online presence.
 
 # Tech Stack
 
-This site uses the vanilla HTML5 & CSS3 stack to adhere to project requirements. The site is deployed to Netlify with Continuous Integration from GitHub.
+This site uses the vanilla HTML5 & CSS3 stack to adhere to the project's specifications. The site is deployed to Netlify's PaaS with Continuous Integration from GitHub.
 
 # Questions and Answers
 
@@ -127,11 +145,13 @@ This site uses the vanilla HTML5 & CSS3 stack to adhere to project requirements.
 - 1967 >> APRANET published
 - 1980 >> Ethernet Standard Introduced
 - 1981 >> Computer Science Network
+- 1991 >> Birth of the Good Ol' World Wide Web
 - 1992 >> ISPs offer dialup in the U.S. (28.8k)
 - 1993 >> Amazon is incorporated, an internet revolution is born
 - 2000 >> Dot Com bubble burst
 - 2003 >> Facebook founded
 - 2014 >> SV Boom, VC Funding hits a record high, a "Yo!" app is valued at $1,000,000 USD
+- 2016 >> Convenience boom, Almost any product can be order online. One never has to leave the house.
 
 
 ## The fundamentals of the Internet
@@ -145,17 +165,17 @@ The techniques are as follows:
 - The routing of traffic (DNS)
 - The protocol method of transmitting client-server data in a formalised manner (HTTP, FTP)
 
-### Packet Handling
-This allows for transport of data from one PC to another PC (typically client to server) to occur in a formalised manner. This is the base layer that can allow traffic to flwo
+### Packet Handling and Transport Handling
+This allows for transport of data from one PC to another PC (typically client to server) to occur in a formalised manner. This is the base layer that can allow traffic to flow.
 
-### DNS
+### DNS / Routing
 DNS, or Domain Name System, is a decentralized directory that translates domain names from the transport layer (base layer) to IPs and then routes it to the correct server.
 
-### HTTP
+### HTTP / Document Handling
 These allow for data from requests from URLs to occur. HTML documents can be sent through this protocol.
 
 ## Impact of the Internet to the world
-The original goal of the internet was to provide the collective intelligence of many individuals across the globe. As there is no restrictions (until recently) on what knowledge could be shared, this is single handedly the most powerful innovation created by mankind. Instead of being restricted on the intelligence of what 1 individual or corporation, now anyone, anywhere, regardless of any status can access the world's knowledge in the hands of their pocket. 
+The original goal of the internet was to provide the collective intelligence of many individuals across the globe. As there is no restrictions (until recently) on what knowledge could be shared, this is single handily  the most powerful innovation created by mankind. Instead of being restricted on the intelligence of what 1 individual or corporation, now anyone, anywhere, regardless of any status can access the world's knowledge in the hands of their pocket. 
 
 Ordering a pizza? Sure! Booking a ticket? Sure! Understanding science? Don't run to the library for outdated texts, just go type it in Google. Not sure where you are and need a taxi? Easy.
 
