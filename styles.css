@@ -295,7 +295,10 @@ i {
 		}
 		.mobile-wrapper-bottom {
 			display: flex;
-			height: 100vh;
+			height: 107vh;
+			margin: initial;
+			position: fixed;
+			left: 300px;
 		}
 		main {
 			margin-left: -5%;
