@@ -147,6 +147,10 @@ i {
   display: inline-block;
 }
 
+.nav-container-mobile-bottom {
+	transform: rotate(180deg);
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -154,6 +158,9 @@ i {
   min-width: 92px;
   z-index: 1; 
   border-radius: 7px;
+}
+.dropdown-content-bottom {
+	transform: rotate(180deg);
 }
 
 .dropdown-content a {
@@ -285,6 +292,10 @@ i {
 	@media screen and (max-width: 600px) {
 		.mobile-wrapper {
 			display: block;
+		}
+		.mobile-wrapper-bottom {
+			display: flex;
+			height: 100vh;
 		}
 		main {
 			margin-left: -5%;
