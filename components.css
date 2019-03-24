@@ -29,12 +29,30 @@
     background-image: url("https://image.freepik.com/free-photo/view-air-plane-wing-during-take-off-landing_1359-539.jpg");
     border-radius: 4px;
   }
+
+  .img-portfolio-3 {
+    background-image: url("./img/globe.png");
+    border-radius: 4px;
+  }
+  
+  .img-portfolio-4 {
+    background-image: url("./img/credit-card.jpg");
+    border-radius: 4px;
+  }
   
   .data-container-text {
     display: block;
     padding: 16px;
   }
-  
+
+  .data-container-subtitle {
+    color: #c0c0c0;
+    font-size: 1.05em;
+    padding-top: 1px;
+    padding-left: 16px;
+    padding-bottom: 10px;
+  }
+
   .data-container-text > h4 {
     color: #000;
     font-size: 1.75rem;
