@@ -60,6 +60,15 @@ Therefore, the website was built on a component-first approach. This is where co
 
 Afterwards, design considerations for mobile were undertaken by ensuring that for small viewports, relevant media queries were utilised to hide the navigation and components that were not optimised for mobile were altered to display the content as best as possible despite the lack of real estate. 
 
+# Usability Considerations
+Although the site was designed originally for desktop, after much experimentation and testing, usability was deeply considered on mobile. This included for a prominent mobile navbar (through the employment of the classic hamburger menu), responsive text using dynamic fonts that resize according to the viewport and margin considerations on content boxes. In particular, the about page was <b>completely</b> revamped for mobile due to its original desktop-first nature. 
+
+The mobile version ensured that all content boxes were displayed in columns and text was clearly legible. 
+
+Minimal images were used to emphasis on the "vanilla" / "clean" effect. Stylistic background images were also removed for usability as it interfered with the diplaying of the content. 
+
+In regards to the desktop, the emphasis was more towards the clear display of text and fast accessiblity of links from the navbar (socials are on the bottom). 
+
 # Trello
 
 <img src="/docs/trello.png" />
