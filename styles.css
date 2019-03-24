@@ -127,7 +127,7 @@ i {
 
 .mobile-wrapper {
 	display: none;
-  margin-left: 17%;
+  margin-left: calc(100vw - 33vw);
   float: none;
 }
 .dropdown-link {
@@ -138,7 +138,7 @@ i {
   border: none;
   height: 100px;
   margin: 0;
-  font-size: 8vw;
+  font-size: 5vw;
   box-shadow: 2px 3px 13px -5px rgba(252,70,107,1);
 }
 
@@ -151,7 +151,7 @@ i {
   display: none;
   position: absolute;
   background: linear-gradient(0.98turn, #3f5efb, #fc466b);
-  min-width: 160px;
+  min-width: 92px;
   z-index: 1; 
   border-radius: 7px;
 }
@@ -287,7 +287,7 @@ i {
 			display: block;
 		}
 		main {
-			margin-left: 10%;
+			margin-left: -5%;
 		}
 		.nav-container {
 			display: none;
