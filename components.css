@@ -18,7 +18,7 @@
   
   .data-container-img {
     width: 40%;
-    background-image: url("https://i.imgur.com/nZeqBYh.png");
+    background-image: url("./img/sudoku.png");
     display: block;
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,7 +26,7 @@
   }
   
   .img-portfolio-1 {
-    background-image: url("https://image.freepik.com/free-photo/view-air-plane-wing-during-take-off-landing_1359-539.jpg");
+    background-image: url("/img/view-air-plane-wing-during-take-off-landing_1359-539.jpg");
     border-radius: 4px;
   }
 
@@ -37,6 +37,21 @@
   
   .img-portfolio-4 {
     background-image: url("./img/credit-card.jpg");
+    border-radius: 4px;
+  }
+
+  .img-portfolio-5 {
+   background-image: url("./img/2wayarrow.png");
+   border-radius: 4px;
+  }
+
+  .img-portfolio-6 {
+    background-image: url("./img/the_intentional_trader.png");
+    border-radius: 4px;
+  }
+
+  .img-portfolio-7 {
+    background-image: url("./img/code_img.png");
     border-radius: 4px;
   }
   
